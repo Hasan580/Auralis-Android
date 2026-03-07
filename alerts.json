@@ -2,9 +2,9 @@
   "alerts": [
     {
       "id": "welcome-v1",
-      "type": "info",
+      "type": "crictal",
       "title": "Welcome to Auralis!",
-      "message": "Thank you for using Auralis. Enjoy downloading from 1,700+ sites!",
+      "message": "You should go to settings and press update yt-dlp before using the app enjoy!",
       "dismissible": true,
       "minVersion": "1.0.0",
       "maxVersion": "99.0.0",
@@ -18,3 +18,4 @@
     "changelog": "Initial release"
   }
 }
+
