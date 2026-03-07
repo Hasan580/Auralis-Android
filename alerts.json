@@ -2,13 +2,25 @@
   "alerts": [
     {
       "id": "welcome-v1",
-      "type": "crictal",
+      "type": "info",
       "title": "Welcome to Auralis!",
-      "message": "You should go to settings and press update yt-dlp before using the app enjoy!",
+      "message": "Thank you for using Auralis. Enjoy downloading from 1,700+ sites!",
       "dismissible": true,
       "minVersion": "1.0.0",
       "maxVersion": "99.0.0",
       "enabled": true
+    },
+    {
+      "id": "example-critical",
+      "type": "critical",
+      "title": "Example Critical Alert",
+      "message": "This is an example critical alert. It cannot be dismissed by the user. Replace or disable this.",
+      "dismissible": false,
+      "minVersion": "1.0.0",
+      "maxVersion": "99.0.0",
+      "enabled": false,
+      "actionUrl": "https://github.com/Hasan580/Auralis-Android",
+      "actionLabel": "More Info"
     }
   ],
   "latestVersion": {
@@ -18,4 +30,3 @@
     "changelog": "Initial release"
   }
 }
-
