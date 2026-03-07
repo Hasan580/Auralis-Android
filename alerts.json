@@ -1,0 +1,20 @@
+{
+  "alerts": [
+    {
+      "id": "welcome-v1",
+      "type": "info",
+      "title": "Welcome to Auralis!",
+      "message": "Thank you for using Auralis. Enjoy downloading from 1,700+ sites!",
+      "dismissible": true,
+      "minVersion": "1.0.0",
+      "maxVersion": "99.0.0",
+      "enabled": true
+    }
+  ],
+  "latestVersion": {
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "downloadUrl": "https://github.com/Hasan580/Auralis-Android/releases/latest",
+    "changelog": "Initial release"
+  }
+}
