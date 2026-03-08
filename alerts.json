@@ -25,9 +25,8 @@
   ],
   "latestVersion": {
     "versionName": "1.1.0",
-    "versionCode": 1,
-    "downloadUrl": "https://github.com/Hasan580/Auralis-Android/releases/latest",
-    "changelog": "Initial release"
+    "versionCode": 2,
+    "downloadUrl": "https://github.com/Hasan580/Auralis-Android/releases/download/v1.1.0/app-universal-release.apk",
+    "changelog": "- Playlist management (create, save, load, delete)\n- Spotify in-app playback\n- UI improvements\n- Bug fixes"
   }
 }
-
